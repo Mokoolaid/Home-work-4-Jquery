@@ -1,8 +1,0 @@
-body {
-  background-image: "Jquery homework\assets\images\diamond.jpg";
-}
-
-.div {
-  justify-content: flex-start | flex-end | center | space-between | space-around
-    | space-evenly | start | end | left | right ... + safe | unsafe;
-}
